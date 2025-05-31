@@ -1,4 +1,4 @@
-import artistsData from './artistData.json';
+//import artistsData from './artistData.json';
 const artistImgDir = "./avatars/";
 const artistImgExtension = ".png";
 
