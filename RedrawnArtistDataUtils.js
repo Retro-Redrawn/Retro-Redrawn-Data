@@ -5,7 +5,7 @@ const artistImgExtension = ".png";
 /** Fetches the data for an artist */
 function GetArtistData(artistID) {
     artists.forEach(artistData => {
-        if (artistData.uniqueId == artistID) {
+        if (artistData.uniqueId === artistID) {
             return artistData;
         }
     });
