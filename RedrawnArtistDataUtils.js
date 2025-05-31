@@ -4,13 +4,14 @@ const artistImgExtension = ".png";
 
 /** Fetches the data for an artist */
 function GetArtistData(artistID) {
+    var data = null;
     artists.forEach(artistData => {
         if (artistData.uniqueId === artistID) {
-            return artistData;
+            data = artistData;
         }
     });
 
-    return null;
+    return data;
 }
 
 /** Prepares the path string to the artist image. */
