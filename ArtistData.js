@@ -135,7 +135,7 @@ var artists = [
         name : "Broken Gamer X",
         imageNameOverride: "BrokenGamerX",
         uniqueId: "BROK",
-        url: ""
+        url: "https://x.com/BrokengamerX"
     },
     {
         name : "BTdangelo", 
@@ -679,7 +679,7 @@ var artists = [
         name : "SpaceBiker", 
         imageNameOverride: "",
         uniqueId: "SPAC_2",
-        url: ""
+        url: "https://x.com/SpaceBikerNeil/"
     },
     {
         name : "Steven McCarthy", 
@@ -708,10 +708,10 @@ var artists = [
         url: "https://linktr.ee/tanupxl"
     },
     {
-        name : "TDW", 
+        name : "TDW", // aka TheDarkWarrior
         imageNameOverride: "",
         uniqueId: "TDW0",
-        url: ""
+        url: "https://x.com/Lord_SForcer"
     },
     {
         name : "Tetra", 
@@ -726,10 +726,10 @@ var artists = [
         url: "https://x.com/ThatLeftHandMan"
     },
     {
-        name : "TheBurningFlare", 
+        name : "TheBurningFlare", // aka CordRocker
         imageNameOverride: "",
         uniqueId: "THEB",
-        url: ""
+        url: "https://cordrocker.carrd.co/"
     },
     {
         name : "thedragonllama", 
@@ -749,7 +749,7 @@ var artists = [
         name : "Unsettled", 
         imageNameOverride: "",
         uniqueId: "UNSE",
-        url: ""
+        url: "https://x.com/_unsettled_"
     },
     {
         name : "unsilentwill", 
@@ -783,7 +783,7 @@ var artists = [
         name : "Wortel", 
         imageNameOverride: "",
         uniqueId: "WORT",
-        url: ""
+        url: "https://x.com/WortelKK"
     },
     {
         name : "Wuchta", 
@@ -805,7 +805,7 @@ var artists = [
         name : "Yammy", 
         imageNameOverride: "",
         uniqueId: "YAMM",
-        url: ""
+        url: "https://x.com/yammy16160/"
     },
     {
         name : "Yokaiy", 
@@ -817,7 +817,7 @@ var artists = [
         name : "Yolkghost", 
         imageNameOverride: "",
         uniqueId: "YOLK",
-        url: ""
+        url: "https://x.com/yolklyghostly/"
     },
     {
         name : "Yumipiku", 
