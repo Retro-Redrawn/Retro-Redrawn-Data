@@ -8,9 +8,21 @@ var template = [
 ];
 
 var artists = [
-    
+    //#region A
     {
-        name : "Agua Hervida", 
+        name : "a chair", 
+        imageNameOverride: "achair",
+        uniqueId: "ACHA",
+        url: ""
+    },
+    {
+        name : "ac2Dart", 
+        imageNameOverride: "",
+        uniqueId: "AC2D",
+        url: "https://x.com/ac2dart"
+    },
+    {
+        name : "Agua Hervida", // aka h2ohervida
         imageNameOverride: "AguaHervida",
         uniqueId: "AGUA",
         url: "https://linktr.ee/AguaHervida"
@@ -34,6 +46,24 @@ var artists = [
         url: "https://x.com/Anima_nel"
     },
     {
+        name : "Arkflinn", 
+        imageNameOverride: "",
+        uniqueId: "ARKF",
+        url: "https://linktr.ee/arkflinn"
+    },
+    {
+        name : "Artificer", 
+        imageNameOverride: "",
+        uniqueId: "ARTI",
+        url: "https://artificer111.carrd.co/"
+    },
+    {
+        name : "Ashenwater", 
+        imageNameOverride: "",
+        uniqueId: "ASHE",
+        url: "https://linktr.ee/ashenwater"
+    },
+    {
         name : "Atcero", 
         imageNameOverride: "",
         uniqueId: "ATCE",
@@ -45,11 +75,37 @@ var artists = [
         uniqueId: "ATTI",
         url: "https://linktr.ee/atticusfinn"
     },
+    //#endregion
+    //#region B
+    {
+        name : "Backflipsimmons", 
+        imageNameOverride: "",
+        uniqueId: "BACK",
+        url: "https://linktr.ee/backflipsimmons"
+    },
+    {
+        name : "barosaros", 
+        imageNameOverride: "",
+        uniqueId: "BARO",
+        url: ""
+    },
+    {
+        name : "batfeula", 
+        imageNameOverride: "",
+        uniqueId: "BATF",
+        url: "https://bsky.app/profile/batfeula.bsky.social"
+    },
     {
         name : "BG", 
         imageNameOverride: "",
         uniqueId: "BG00",
         url: "https://linktr.ee/bg_pixlarnD"
+    },
+    {
+        name : "Blam", 
+        imageNameOverride: "",
+        uniqueId: "BLAM",
+        url: ""
     },
     {
         name : "BleuPale", 
@@ -76,10 +132,54 @@ var artists = [
         url: "https://linktr.ee/brandoparm"
     },
     {
+        name : "Broken Gamer X",
+        imageNameOverride: "",
+        uniqueId: "BROK",
+        url: ""
+    },
+    {
         name : "BTdangelo", 
         imageNameOverride: "",
         uniqueId: "BTDA",
         url: "https://linktr.ee/btdangelo"
+    },
+    //#endregion
+    //#region C
+    {
+        name : "ChJa", 
+        imageNameOverride: "",
+        uniqueId: "CHJA",
+        url: "https://x.com/ChJaPx/"
+    },
+    {
+        name : "Chren", 
+        imageNameOverride: "",
+        uniqueId: "CHRE",
+        url: ""
+    },
+    {
+        name : "Chubbo", 
+        imageNameOverride: "",
+        uniqueId: "CHUB",
+        url: ""
+    },
+    {
+        name : "Corbí", 
+        imageNameOverride: "Corbi",
+        uniqueId: "CORB",
+        url: "https://x.com/VCorbi"
+    },
+    {
+        name : "Crab Maxuwl", 
+        imageNameOverride: "CrabMaxuwl",
+        uniqueId: "CRAB",
+        url: "https://linktr.ee/maxuwlneto0"
+    },
+    {
+        name : "Crimson Kero", // aka Anonymous-Frog
+        imageNameOverride: "CrimsonKero",
+        uniqueId: "CRIM",
+        url: ""
     },
     {
         name : "Crowno", 
@@ -87,11 +187,31 @@ var artists = [
         uniqueId: "CROW",
         url: "https://bsky.app/profile/crowno.bsky.social"
     },
+    //#endregion
+    //#region D
     {
         name : "Daizha", 
         imageNameOverride: "",
         uniqueId: "DAIZ",
         url: "https://x.com/scribulls"
+    },
+    {
+        name : "Damian", 
+        imageNameOverride: "",
+        uniqueId: "DAMI",
+        url: ""
+    },
+    {
+        name : "Dan Velasquez", 
+        imageNameOverride: "DanVelasquez",
+        uniqueId: "DANV",
+        url: "https://linktr.ee/danvelasquezart"
+    },
+    {
+        name : "Daniel Pascal", 
+        imageNameOverride: "DanielPascal",
+        uniqueId: "DANI",
+        url: "https://kinpraw.carrd.co/"
     },
     {
         name : "Darth_Scorpion", 
@@ -100,16 +220,28 @@ var artists = [
         url: "https://darkscorpion19.carrd.co/"
     },
     {
+        name : "Daydreamer", 
+        imageNameOverride: "",
+        uniqueId: "DAYD",
+        url: "https://bsky.app/profile/daydreamer94.bsky.social"
+    },
+    {
+        name : "Dema", 
+        imageNameOverride: "",
+        uniqueId: "DEMA",
+        url: ""
+    },
+    {
         name : "DeviFoxx", 
         imageNameOverride: "",
         uniqueId: "DEVI",
         url: "https://bsky.app/profile/devifoxx.bsky.social"
     },
     {
-        name : "Dewndeym", 
+        name : "Dewdneym", // aka Dewndeym 
         imageNameOverride: "",
         uniqueId: "DEWN",
-        url: "https://x.com/Dewndeym"
+        url: "http://dewdneym.cool/"
     },
     {
         name : "Don", 
@@ -129,6 +261,8 @@ var artists = [
         uniqueId: "DUST",
         url: "https://linktr.ee/dustyshouri"
     },
+    //#endregion
+    //#region E
     {
         name : "Emmazapan", 
         imageNameOverride: "",
@@ -142,23 +276,53 @@ var artists = [
         url: "https://enricosut.carrd.co/"
     },
     {
-        name : "Foo", 
+        name : "Eto2D", 
+        imageNameOverride: "",
+        uniqueId: "ETO2",
+        url: "https://bsky.app/profile/eto2d.bsky.social"
+    },
+    //#endregion
+    //#region F
+    {
+        name : "focara",
+        imageNameOverride: "",
+        uniqueId: "FOCA",
+        url: "https://bsky.app/profile/realfocara.bsky.social"
+    },
+    {
+        name : "Foo", // aka Foofarawr
         imageNameOverride: "",
         uniqueId: "FOOF",
         url: "https://linktr.ee/foofarawr"
     },
     {
+        name : "Fry",
+        imageNameOverride: "",
+        uniqueId: "FRY0",
+        url: "https://bsky.app/profile/westenfry.bsky.social"
+    },
+    //#endregion
+    //#region G
+    {
+        name : "GenoCL", 
+        imageNameOverride: "",
+        uniqueId: "GENO",
+        url: "https://genocl.carrd.co/"
+    },
+    {
         name : "Ghoulee", 
         imageNameOverride: "",
         uniqueId: "GHOU",
-        url: "https://x.com/ghouleebones"
+        url: "https://bsky.app/profile/ghouleebones.bsky.social"
     },
     {
         name : "GlitchedPie", 
         imageNameOverride: "",
         uniqueId: "GLIT",
-        url: "https://x.com/PieGlitched"
+        url: "https://bsky.app/profile/glitchedpie.bsky.social"
     },
+    //#endregion
+    //#region H
     {
         name : "HadianK", 
         imageNameOverride: "",
@@ -166,21 +330,75 @@ var artists = [
         url: "https://x.com/HaddianK"
     },
     {
+        name : "HansDenuevo", 
+        imageNameOverride: "",
+        uniqueId: "HANS",
+        url: ""
+    },
+    {
+        name : "HaywireJo", 
+        imageNameOverride: "",
+        uniqueId: "HAYW",
+        url: ""
+    },
+    //#endregion
+    //#region I
+    {
+        name : "ImionJay", 
+        imageNameOverride: "",
+        uniqueId: "IMIO",
+        url: ""
+    },
+    {
+        name : "Inter", 
+        imageNameOverride: "",
+        uniqueId: "INTE",
+        url: ""
+    },
+    //#endregion
+    //#region J
+    {
+        name : "jammigans", 
+        imageNameOverride: "",
+        uniqueId: "JAMM",
+        url: "https://bio.link/jammigans"
+    },
+    {
         name : "Jenny", 
         imageNameOverride: "",
         uniqueId: "JENN",
-        url: "https://x.com/rainovershine"
+        url: "https://bsky.app/profile/rainovershine.bsky.social"
+    },
+    {
+        name : "Joules", 
+        imageNameOverride: "",
+        uniqueId: "JOUL",
+        url: "https://bsky.app/profile/joulespixels.bsky.social"
     },
     {
         name : "Juanito", 
         imageNameOverride: "",
         uniqueId: "JUAN",
-        url: "https://x.com/juanitomedinart"
+        url: "https://bsky.app/profile/juanitomedinart.bsky.social"
     },
+    //#endregion
+    //#region K
     {
         name : "Kenchinator", 
         imageNameOverride: "",
         uniqueId: "KENC",
+        url: ""
+    },
+    {
+        name : "Kerrie Lake", 
+        imageNameOverride: "KerrieLake",
+        uniqueId: "KERR",
+        url: ""
+    },
+    {
+        name : "kingw", 
+        imageNameOverride: "",
+        uniqueId: "KING",
         url: ""
     },
     {
@@ -190,10 +408,24 @@ var artists = [
         url: "https://linktr.ee/Klardonics"
     },
     {
+        name : "kohemy", 
+        imageNameOverride: "",
+        uniqueId: "KOHE",
+        url: ""
+    },
+    //#endregion
+    //#region L
+    {
         name : "Lamington", 
         imageNameOverride: "",
         uniqueId: "LAMI",
-        url: "https://linktr.ee/lamington/generic_most"
+        url: "https://linktr.ee/lamington"
+    },
+    {
+        name : "Lodeman", 
+        imageNameOverride: "",
+        uniqueId: "LODE",
+        url: "https://x.com/MonsterIndieDev"
     },
     {
         name : "Lyzerus", 
@@ -201,6 +433,8 @@ var artists = [
         uniqueId: "LYZE",
         url: "https://x.com/AaronLyzerus"
     },
+    //#endregion
+    //#region M
     {
         name : "M3ch4 N1nj4", 
         imageNameOverride: "M3ch4N1nj4",
@@ -214,16 +448,72 @@ var artists = [
         url: "https://cringe.ovh/"
     },
     {
+        name : "Marmot", 
+        imageNameOverride: "",
+        uniqueId: "MARM",
+        url: ""
+    },
+    {
+        name : "Mechano", 
+        imageNameOverride: "",
+        uniqueId: "MECH",
+        url: "https://x.com/_Mechano_"
+    },
+    {
+        name : "MegaToon1234", 
+        imageNameOverride: "",
+        uniqueId: "MEGA",
+        url: "https://x.com/MToon1234"
+    },
+    {
+        name : "MetaruPX", 
+        imageNameOverride: "",
+        uniqueId: "META",
+        url: "https://linktr.ee/MetaruPX"
+    },
+    {
+        name : "MHBali", 
+        imageNameOverride: "",
+        uniqueId: "MHBA",
+        url: "https://linktr.ee/mhbali"
+    },
+    {
         name : "Mikel", 
         imageNameOverride: "",
         uniqueId: "MIKE",
         url: "https://x.com/RomanoOjea"
     },
     {
+        name : "MIRAGE", 
+        imageNameOverride: "",
+        uniqueId: "MIRA",
+        url: "https://bsky.app/profile/elmorethemagician.bsky.social"
+    },
+    {
+        name : "MoriNoAndrei", 
+        imageNameOverride: "",
+        uniqueId: "MORI",
+        url: "https://linktr.ee/MoriNoAndrei"
+    },
+    //#endregion
+    //#region N
+    {
         name : "NekoCrocodile", 
         imageNameOverride: "",
         uniqueId: "NEKO",
         url: "https://linktr.ee/nekocrocodile"
+    },
+    {
+        name : "NekuDemon", 
+        imageNameOverride: "",
+        uniqueId: "NEKU",
+        url: ""
+    },
+    {
+        name : "Ninety", 
+        imageNameOverride: "",
+        uniqueId: "NINE",
+        url: ""
     },
     {
         name : "NOP", 
@@ -237,17 +527,45 @@ var artists = [
         uniqueId: "NORM",
         url: "https://www.instagram.com/normal_neighbor/"
     },
+    //#endregion
+    //#region O
     {
         name : "Ota", 
         imageNameOverride: "",
         uniqueId: "OTA0",
         url: "https://linktr.ee/otapxl"
     },
+    //#endregion
+    //#region P
+    {
+        name : "PawkiUwU", 
+        imageNameOverride: "",
+        uniqueId: "PAWK",
+        url: "https://bsky.app/profile/pawkiuwu.bsky.social"
+    },
     {
         name : "Pikethorne", 
         imageNameOverride: "",
         uniqueId: "PIKE",
         url: "https://www.pikethorne.net/"
+    },
+    {
+        name : "pinselschubser", 
+        imageNameOverride: "",
+        uniqueId: "PINS",
+        url: ""
+    },
+    {
+        name : "pixelmage", 
+        imageNameOverride: "",
+        uniqueId: "PIXE",
+        url: "https://linktr.ee/pixelmage"
+    },
+    {
+        name : "PJBgamer", 
+        imageNameOverride: "",
+        uniqueId: "PJBG",
+        url: "https://bsky.app/profile/pjbgamer.bsky.social"
     },
     {
         name : "Pkdotts", 
@@ -261,11 +579,45 @@ var artists = [
         uniqueId: "POTA",
         url: "https://x.com/generic_most"
     },
+    //#endregion
+    //#region Q
+    //#endregion
+    //#region R
+    {
+        name : "Rami", 
+        imageNameOverride: "",
+        uniqueId: "RAMI",
+        url: ""
+    },
     {
         name : "Rata", 
         imageNameOverride: "",
         uniqueId: "RATA",
-        url: "http://x.com/ratariasart"
+        url: "https://bsky.app/profile/ratazart.bsky.social"
+    },
+    {
+        name : "Reesereeserson", 
+        imageNameOverride: "",
+        uniqueId: "REES",
+        url: "https://x.com/reesereeserson"
+    },
+    {
+        name : "Robster89", 
+        imageNameOverride: "",
+        uniqueId: "ROBS",
+        url: ""
+    },
+    {
+        name : "ROger", 
+        imageNameOverride: "",
+        uniqueId: "ROGE",
+        url: ""
+    },
+    {
+        name : "Rudy Flores", 
+        imageNameOverride: "RudyFlores",
+        uniqueId: "RUDY",
+        url: ""
     },
     {
         name : "Runtd", 
@@ -273,11 +625,37 @@ var artists = [
         uniqueId: "RUNT",
         url: "https://linktr.ee/runtd"
     },
+    //#endregion
+    //#region S
     {
         name : "SamtheSalmon", 
         imageNameOverride: "",
         uniqueId: "SAMT",
         url: "https://x.com/SamThe_Salmon"
+    },
+    {
+        name : "scooter155", 
+        imageNameOverride: "",
+        uniqueId: "SCOO",
+        url: ""
+    },
+    {
+        name : "SethInTheSpace", 
+        imageNameOverride: "",
+        uniqueId: "SETH",
+        url: "https://linktr.ee/SethInTheSpace"
+    },
+    {
+        name : "SJPixels", 
+        imageNameOverride: "",
+        uniqueId: "SJPI",
+        url: ""
+    },
+    {
+        name : "Sleezy", 
+        imageNameOverride: "",
+        uniqueId: "SLEE",
+        url: ""
     },
     {
         name : "Smoking Moon", 
@@ -286,10 +664,36 @@ var artists = [
         url: "https://linktr.ee/smokingmoon"
     },
     {
+        name : "Space-Agewrangler", 
+        imageNameOverride: "",
+        uniqueId: "SPAC",
+        url: "https://space-agewrangler.newgrounds.com/"
+    },
+    {
+        name : "SpaceBiker", 
+        imageNameOverride: "",
+        uniqueId: "SPAC_2",
+        url: ""
+    },
+    {
+        name : "Steven McCarthy", 
+        imageNameOverride: "StevenMcCarthy",
+        uniqueId: "STEV",
+        url: "https://bsky.app/profile/1988stevenm.bsky.social"
+    },,
+    {
         name : "StrawBe", 
         imageNameOverride: "",
         uniqueId: "STRA",
-        url: "https://x.com/StrawPact"
+        url: "https://bsky.app/profile/strawpact.bsky.social"
+    },
+    //#endregion
+    //#region T
+    {
+        name : "t3nshi", 
+        imageNameOverride: "",
+        uniqueId: "T3NS",
+        url: "https://bsky.app/profile/t3nshi.bsky.social"
     },
     {
         name : "Tanu", 
@@ -298,11 +702,65 @@ var artists = [
         url: "https://linktr.ee/tanupxl"
     },
     {
+        name : "TDW", 
+        imageNameOverride: "",
+        uniqueId: "TDW0",
+        url: ""
+    },
+    {
+        name : "Tetra", 
+        imageNameOverride: "",
+        uniqueId: "TETR",
+        url: "https://bsky.app/profile/tetraminose.bsky.social"
+    },
+    {
+        name : "ThatLeftHandMan", 
+        imageNameOverride: "",
+        uniqueId: "THAT",
+        url: "https://x.com/ThatLeftHandMan"
+    },
+    {
+        name : "TheBurningFlare", 
+        imageNameOverride: "",
+        uniqueId: "THEB",
+        url: ""
+    },
+    {
+        name : "thedragonllama", 
+        imageNameOverride: "",
+        uniqueId: "THED",
+        url: "https://linktr.ee/thedragonllama"
+    },
+    {
+        name : "Tyltal", 
+        imageNameOverride: "",
+        uniqueId: "TYLT",
+        url: "https://bsky.app/profile/tyltal.bsky.social"
+    },
+    //#endregion
+    //#region U
+    {
+        name : "Unsettled", 
+        imageNameOverride: "",
+        uniqueId: "UNSE",
+        url: ""
+    },
+    {
         name : "unsilentwill", 
         imageNameOverride: "",
         uniqueId: "UNSI",
         url: "https://linktr.ee/unsilentwill"
     },
+    //#endregion
+    //#region V
+    {
+        name : "victoria", 
+        imageNameOverride: "",
+        uniqueId: "VICT",
+        url: "https://bsky.app/profile/came2slide.bsky.social"
+    },
+    //#endregion
+    //#region W
     {
         name : "Wilperi", 
         imageNameOverride: "",
@@ -313,7 +771,19 @@ var artists = [
         name : "Woodspixl", 
         imageNameOverride: "",
         uniqueId: "WOOD",
-        url: "https://x.com/Woodspixl_"
+        url: "https://bsky.app/profile/woodspixl.bsky.social"
+    },
+    {
+        name : "Wortel", 
+        imageNameOverride: "",
+        uniqueId: "WORT",
+        url: ""
+    },
+    {
+        name : "Wuchta", 
+        imageNameOverride: "",
+        uniqueId: "WUCH",
+        url: "https://bsky.app/profile/wuchta.bsky.social"
     },
     {
         name : "WukongJr", 
@@ -321,12 +791,36 @@ var artists = [
         uniqueId: "WUKO",
         url: "https://x.com/WuKongJr_Art"
     },
+    //#endregion
+    //#region X
+    //#endregion
+    //#region Y
+    {
+        name : "Yammy", 
+        imageNameOverride: "",
+        uniqueId: "YAMM",
+        url: ""
+    },
     {
         name : "Yokaiy", 
         imageNameOverride: "",
         uniqueId: "YOKA",
         url: "https://bsky.app/profile/yokaiy.bsky.social"
     },
+    {
+        name : "Yolkghost", 
+        imageNameOverride: "",
+        uniqueId: "YOLK",
+        url: ""
+    },
+    {
+        name : "Yumipiku", 
+        imageNameOverride: "",
+        uniqueId: "YUMI",
+        url: "https://yumipiku.carrd.co/"
+    },
+    //#endregion
+    //#region Z
     {
         name : "Zaebucca", 
         imageNameOverride: "",
@@ -338,5 +832,14 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "ZUSH",
         url: "https://linktr.ee/zushi3dhero"
+    },
+    //#endregion
+    //#region ?
+    {
+        name : "NULL ARTIST", 
+        imageNameOverride: "",
+        uniqueId: "NULL",
+        url: ""
     }
+    //#endregion
 ];
