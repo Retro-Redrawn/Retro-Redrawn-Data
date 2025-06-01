@@ -670,7 +670,7 @@ var artists = [
         url: "https://linktr.ee/smokingmoon"
     },
     {
-        name : "Space-Agewrangler", 
+        name : "Space-AgeWrangler", 
         imageNameOverride: "",
         uniqueId: "SPAC",
         url: "https://space-agewrangler.newgrounds.com/"
