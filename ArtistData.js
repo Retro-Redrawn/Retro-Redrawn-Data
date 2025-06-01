@@ -87,7 +87,7 @@ var artists = [
         name : "barosaros", 
         imageNameOverride: "",
         uniqueId: "BARO",
-        url: ""
+        url: "https://x.com/barosaros"
     },
     {
         name : "batfeula", 
@@ -105,7 +105,7 @@ var artists = [
         name : "Blam", 
         imageNameOverride: "",
         uniqueId: "BLAM",
-        url: ""
+        url: "https://x.com/blam_thethird"
     },
     {
         name : "BleuPale", 
@@ -155,13 +155,13 @@ var artists = [
         name : "Chren", 
         imageNameOverride: "",
         uniqueId: "CHRE",
-        url: ""
+        url: "https://x.com/chreniafoka"
     },
     {
         name : "Chubbo", 
         imageNameOverride: "",
         uniqueId: "CHUB",
-        url: ""
+        url: "https://x.com/Chubbo_px"
     },
     {
         name : "Corbí", 
@@ -199,7 +199,7 @@ var artists = [
         name : "Damian", 
         imageNameOverride: "",
         uniqueId: "DAMI",
-        url: ""
+        url: "https://x.com/koopajr"
     },
     {
         name : "Dan Velasquez", 
@@ -208,7 +208,7 @@ var artists = [
         url: "https://linktr.ee/danvelasquezart"
     },
     {
-        name : "Daniel Pascal", 
+        name : "Daniel Pascal", // aka kinpraw
         imageNameOverride: "DanielPascal",
         uniqueId: "DANI",
         url: "https://kinpraw.carrd.co/"
@@ -226,10 +226,10 @@ var artists = [
         url: "https://bsky.app/profile/daydreamer94.bsky.social"
     },
     {
-        name : "Dema", 
+        name : "Dema", // aka xtrarare
         imageNameOverride: "",
         uniqueId: "DEMA",
-        url: ""
+        url: "https://bsky.app/profile/xtrarare.bsky.social"
     },
     {
         name : "DeviFoxx", 
@@ -333,13 +333,13 @@ var artists = [
         name : "HansDenuevo", 
         imageNameOverride: "",
         uniqueId: "HANS",
-        url: ""
+        url: "https://bsky.app/profile/hansdenuevo.bsky.social"
     },
     {
         name : "HaywireJo", 
         imageNameOverride: "",
         uniqueId: "HAYW",
-        url: ""
+        url: "https://haywirejo.com/"
     },
     //#endregion
     //#region I
@@ -347,7 +347,7 @@ var artists = [
         name : "ImionJay", 
         imageNameOverride: "",
         uniqueId: "IMIO",
-        url: ""
+        url: "https://bsky.app/profile/imionjay.bsky.social"
     },
     {
         name : "Inter", 
@@ -387,19 +387,19 @@ var artists = [
         name : "Kenchinator", 
         imageNameOverride: "",
         uniqueId: "KENC",
-        url: ""
+        url: "https://x.com/K3nch44"
     },
     {
         name : "Kerrie Lake", 
         imageNameOverride: "KerrieLake",
         uniqueId: "KERR",
-        url: ""
+        url: "https://bsky.app/profile/kerrielake.bsky.social"
     },
     {
         name : "kingw", 
         imageNameOverride: "",
         uniqueId: "KING",
-        url: ""
+        url: "https://bsky.app/profile/kingworrell.bsky.social"
     },
     {
         name : "Klardonics", 
@@ -451,19 +451,19 @@ var artists = [
         name : "Marmot", 
         imageNameOverride: "",
         uniqueId: "MARM",
-        url: ""
+        url: "https://bsky.app/profile/aminus.bsky.social"
     },
     {
         name : "Mechano", 
         imageNameOverride: "",
         uniqueId: "MECH",
-        url: "https://x.com/_Mechano_"
+        url: "https://bsky.app/profile/mechano.bsky.social"
     },
     {
         name : "MegaToon1234", 
         imageNameOverride: "",
         uniqueId: "MEGA",
-        url: "https://x.com/MToon1234"
+        url: "https://bsky.app/profile/megatoon1234.bsky.social"
     },
     {
         name : "MetaruPX", 
@@ -507,13 +507,13 @@ var artists = [
         name : "NekuDemon", 
         imageNameOverride: "",
         uniqueId: "NEKU",
-        url: ""
+        url: "https://bsky.app/profile/nekudemon.bsky.social"
     },
     {
         name : "Ninety", 
         imageNameOverride: "",
         uniqueId: "NINE",
-        url: ""
+        url: "https://x.com/NinetyDev"
     },
     {
         name : "NOP", 
@@ -547,7 +547,7 @@ var artists = [
         name : "pedroxturbo", 
         imageNameOverride: "",
         uniqueId: "PEDR",
-        url: "https://bsky.app/profile/pawkiuwu.bsky.social"
+        url: "https://bsky.app/profile/pedroxturbo.bsky.social"
     },
     {
         name : "Pikethorne", 
@@ -559,7 +559,7 @@ var artists = [
         name : "pinselschubser", 
         imageNameOverride: "",
         uniqueId: "PINS",
-        url: ""
+        url: "https://x.com/pinselschubser"
     },
     {
         name : "pixelmage", 
@@ -593,7 +593,7 @@ var artists = [
         name : "Rami", 
         imageNameOverride: "",
         uniqueId: "RAMI",
-        url: ""
+        url: "https://x.com/r_ramenoodles"
     },
     {
         name : "Rata", 
@@ -611,19 +611,19 @@ var artists = [
         name : "Robster89", 
         imageNameOverride: "",
         uniqueId: "ROBS",
-        url: ""
+        url: "https://x.com/Robsterpixels "
     },
     {
-        name : "ROger", 
+        name : "ROger", // aka rugi_kong
         imageNameOverride: "",
         uniqueId: "ROGE",
-        url: ""
+        url: "https://x.com/rugikong/"
     },
     {
         name : "Rudy Flores", 
         imageNameOverride: "RudyFlores",
         uniqueId: "RUDY",
-        url: ""
+        url: "https://dribbble.com/Rudyf93"
     },
     {
         name : "Runtd", 
@@ -640,10 +640,10 @@ var artists = [
         url: "https://x.com/SamThe_Salmon"
     },
     {
-        name : "scooter155", 
+        name : "Scooter", // aka Loren Radis
         imageNameOverride: "",
         uniqueId: "SCOO",
-        url: ""
+        url: "https://www.lorenradis.com/"
     },
     {
         name : "SethInTheSpace", 
@@ -655,13 +655,13 @@ var artists = [
         name : "SJPixels", 
         imageNameOverride: "",
         uniqueId: "SJPI",
-        url: ""
+        url: "https://scottwelfare2.wixsite.com/sjpixels"
     },
     {
         name : "Sleezy", 
         imageNameOverride: "",
         uniqueId: "SLEE",
-        url: ""
+        url: "https://x.com/sleezycasteezy"
     },
     {
         name : "Smoking Moon", 
