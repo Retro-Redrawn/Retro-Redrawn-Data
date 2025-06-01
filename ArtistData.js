@@ -353,7 +353,7 @@ var artists = [
         name : "Inter", 
         imageNameOverride: "",
         uniqueId: "INTE",
-        url: ""
+        url: "https://www.pixiv.net/en/users/110502169"
     },
     //#endregion
     //#region J
