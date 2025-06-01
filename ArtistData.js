@@ -836,9 +836,9 @@ var artists = [
     //#endregion
     //#region ?
     {
-        name : "NULL ARTIST", 
+        name : "NULL ARTIST",   // Used for dummy
         imageNameOverride: "",
-        uniqueId: "NULL",
+        uniqueId: "UNDF",       // NULL would be treated as the null primitive (lol)
         url: ""
     }
     //#endregion
