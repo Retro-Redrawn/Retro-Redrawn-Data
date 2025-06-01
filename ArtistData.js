@@ -544,6 +544,12 @@ var artists = [
         url: "https://bsky.app/profile/pawkiuwu.bsky.social"
     },
     {
+        name : "pedroxturbo", 
+        imageNameOverride: "",
+        uniqueId: "PEDR",
+        url: "https://bsky.app/profile/pawkiuwu.bsky.social"
+    },
+    {
         name : "Pikethorne", 
         imageNameOverride: "",
         uniqueId: "PIKE",
