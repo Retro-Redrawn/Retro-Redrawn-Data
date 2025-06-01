@@ -133,7 +133,7 @@ var artists = [
     },
     {
         name : "Broken Gamer X",
-        imageNameOverride: "",
+        imageNameOverride: "BrokenGamerX",
         uniqueId: "BROK",
         url: ""
     },
