@@ -409,7 +409,7 @@ var artists = [
     },
     {
         name : "kohemy", 
-        imageNameOverride: "",
+        imageNameOverride: "Kohemy",
         uniqueId: "KOHE",
         url: ""
     },
@@ -838,7 +838,7 @@ var artists = [
     {
         name : "NULL ARTIST",   // Used for dummy
         imageNameOverride: "",
-        uniqueId: "UNDF",       // NULL would be treated as the null primitive (lol)
+        uniqueId: "UNDF",       
         url: ""
     }
     //#endregion
