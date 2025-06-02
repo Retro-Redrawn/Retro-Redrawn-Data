@@ -518,7 +518,7 @@ var artists = [
         url: "https://x.com/huttaburger"
     },
     {
-        name : "Hyperjerk", 
+        name : "HyperJerk", // aka Jerky
         imageNameOverride: "",
         uniqueId: "HYPE",
         url: "https://x.com/HyperJerk"
@@ -813,7 +813,7 @@ var artists = [
     },
     {
         name : "Nekofresa", 
-        imageNameOverride: "",
+        imageNameOverride: "nekofresa",
         uniqueId: "NEKO_2",
         url: "https://x.com/nekofresa"
     },
@@ -1420,7 +1420,7 @@ var artists = [
     //#endregion
     //#region ?
     {
-        name : "NULL ARTIST",   // Used for dummy
+        name : "no artist",   // Used for dummy
         imageNameOverride: "unknown_artist",
         uniqueId: "UNDF",       
         url: ""
