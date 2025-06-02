@@ -158,7 +158,7 @@ var artists = [
         url: "https://linktr.ee/blind3dbylight"
     },
     {
-        name : "Blindeuif", 
+        name : "Blindeduif", 
         imageNameOverride: "",
         uniqueId: "BLIN_2",
         url: "https://linktr.ee/blindeduif"
