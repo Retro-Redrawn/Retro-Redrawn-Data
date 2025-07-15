@@ -635,7 +635,7 @@ var artists = [
         name : "KhyleThePixelPrince", 
         imageNameOverride: "",
         uniqueId: "KHYL",
-        url: "https://twitter.com/KhyleThe"
+        url: "https://www.artstation.com/khyledaniels6"
     },
     {
         name : "kingw", // aka King_Worrell
