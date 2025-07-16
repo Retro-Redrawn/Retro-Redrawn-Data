@@ -184,6 +184,12 @@ var artists = [
     //#endregion
     //#region C
     {
+        name : "Cerberus", 
+        imageNameOverride: "",
+        uniqueId: "CERB",
+        url: "https://twitter.com/HellhoundVideo"
+    },
+    {
         name : "chamomeow", 
         imageNameOverride: "",
         uniqueId: "CHAM",
@@ -194,6 +200,12 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "CHEE",
         url: "https://bsky.app/profile/cheesypaninie.bsky.social"
+    },
+    {
+        name : "Chico D. Mar", // aka DumDrums
+        imageNameOverride: "ChicoDMar",
+        uniqueId: "CHIB",
+        url: "https://linktr.ee/MerSaloon"
     },
     {
         name : "Chibi_Jame", 
@@ -272,6 +284,12 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "CRIZ",
         url: "https://x.com/crizzpix"
+    },
+    {
+        name : "Croey", 
+        imageNameOverride: "",
+        uniqueId: "CROE",
+        url: "https://bsky.app/profile/croey.bsky.social"
     },
     {
         name : "Crowno", 
@@ -413,6 +431,12 @@ var artists = [
         uniqueId: "DUST",
         url: "https://linktr.ee/dustyshouri"
     },
+    {
+        name : "Dylz49", 
+        imageNameOverride: "",
+        uniqueId: "DYLZ",
+        url: "https://linktr.ee/Dylz49"
+    },
     //#endregion
     //#region E
     {
@@ -521,6 +545,12 @@ var artists = [
         uniqueId: "GLIT",
         url: "https://bsky.app/profile/glitchedpie.bsky.social"
     },
+    {
+        name : "gravityblocks", 
+        imageNameOverride: "",
+        uniqueId: "GRAV",
+        url: ""
+    },
     //#endregion
     //#region H
     {
@@ -567,6 +597,12 @@ var artists = [
     },
     //#endregion
     //#region I
+    {
+        name : "IllusionOfMana", 
+        imageNameOverride: "",
+        uniqueId: "ILLU",
+        url: "https://bsky.app/profile/illusionofmana.bsky.social"
+    },
     {
         name : "ImionJay", 
         imageNameOverride: "",
@@ -628,6 +664,12 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "JENN",
         url: "https://bsky.app/profile/rainovershine.bsky.social"
+    },
+    {
+        name : "Jonas Q", 
+        imageNameOverride: "JonasQ",
+        uniqueId: "JONA",
+        url: "https://x.com/tripleafrog"
     },
     {
         name : "Joogleous", 
@@ -692,10 +734,22 @@ var artists = [
         url: "https://www.artstation.com/khyledaniels6"
     },
     {
+        name : "Kiln", 
+        imageNameOverride: "",
+        uniqueId: "KILN",
+        url: "https://twitter.com/azlef123"
+    },
+    {
         name : "kingw", // aka King_Worrell
         imageNameOverride: "",
         uniqueId: "KING",
         url: "https://bsky.app/profile/kingworrell.bsky.social"
+    },
+    {
+        name : "KiwiComet", 
+        imageNameOverride: "",
+        uniqueId: "KIWI",
+        url: "https://x.com/Kiwi_Comet"
     },
     {
         name : "Klardonics", 
@@ -792,6 +846,12 @@ var artists = [
         url: "https://bsky.app/profile/mattstov.bsky.social"
     },
     {
+        name : "MaxiSZ", 
+        imageNameOverride: "",
+        uniqueId: "MAXI",
+        url: "https://bsky.app/profile/maxisz.bsky.social"
+    },
+    {
         name : "Maytch", 
         imageNameOverride: "",
         uniqueId: "MAYT",
@@ -831,7 +891,13 @@ var artists = [
         name : "MikManc", 
         imageNameOverride: "",
         uniqueId: "MIKM",
-        url: "https://x.com/mik_manc/status/1381968838393139208?s=21"
+        url: "https://x.com/mik_manc/status/1381968838393139208"
+    },
+    {
+        name : "minichibis", 
+        imageNameOverride: "",
+        uniqueId: "MINI",
+        url: "https://bsky.app/profile/minichibisart.bsky.social"
     },
     {
         name : "MIRAGE", 
@@ -926,6 +992,12 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "OTA0",
         url: "https://linktr.ee/otapxl"
+    },
+    {
+        name : "OvergrownRobot", 
+        imageNameOverride: "",
+        uniqueId: "OVER",
+        url: "https://bsky.app/profile/overgrownrobot.zip"
     },
     //#endregion
     //#region P
@@ -1069,7 +1141,7 @@ var artists = [
         name : "Raspberry Milkshake",
         imageNameOverride: "RaspberryMilks1",
         uniqueId: "RASP",
-        url: "https://www.instagram.com/raspberry__milkshake"
+        url: "https://bsky.app/profile/raspberrymilkshake.bsky.social"
     },
     {
         name : "Rata", // aka nasCobolo
@@ -1124,6 +1196,12 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "ROGE",
         url: "https://bsky.app/profile/rugikong.bsky.social"
+    },
+    {
+        name : "Roybot", 
+        imageNameOverride: "",
+        uniqueId: "ROYB",
+        url: ""
     },
     {
         name : "Rudy Flores", 
@@ -1272,6 +1350,12 @@ var artists = [
         url: "https://x.com/DrZicter"
     },
     {
+        name : "squp", 
+        imageNameOverride: "",
+        uniqueId: "SQUP",
+        url: "https://bsky.app/profile/did:plc:xye6v4txjbv7agxbie5hjjlk"
+    },
+    {
         name : "Stefan", // aka MercuryBD
         imageNameOverride: "",
         uniqueId: "STEF",
@@ -1362,6 +1446,12 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "THOU",
         url: "https://x.com/thoughtwavelet"
+    },
+    {
+        name : "TidnBits", 
+        imageNameOverride: "",
+        uniqueId: "TIDN",
+        url: "https://x.com/TidnBits"
     },
     {
         name : "toadinspace", 
