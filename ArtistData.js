@@ -1434,10 +1434,10 @@ var artists = [
         url: "https://x.com/Seva86706122"
     },
     {
-        name : "shino1", 
+        name : "ShinoSarna", // aka shino1 
         imageNameOverride: "",
         uniqueId: "SHIN",
-        url: "https://x.com/shin0_0ne"
+        url: "https://bsky.app/profile/shino1.bsky.social"
     },
     {
         name : "ShinySeabass", 
