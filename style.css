@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    color: #262625;
+    background-color: #f0eeeb;
+}
+
+.thumb-img {
+    height: 64px;
+    width: auto;
+}
+
+::selection {
+    background: #ffb7b7; /* WebKit/Blink Browsers */
+  }
+
+a:link, a:visited {
+    color: #736d68;
+}
