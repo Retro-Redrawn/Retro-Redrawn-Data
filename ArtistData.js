@@ -232,10 +232,10 @@ var artists = [
         url: "https://x.com/Chibi_Jame"
     },
     {
-        name : "ChJa", 
+        name : "ChJa", // aka cjlm123
         imageNameOverride: "",
         uniqueId: "CHJA",
-        url: "https://x.com/ChJaPx"
+        url: "https://pixeljoint.com/p/220173.htm"
     },
     {
         name : "Chren", 
@@ -262,7 +262,7 @@ var artists = [
         url: "https://linktr.ee/CJJammies"
     },
     {
-        name : "cjlm123", 
+        name : "cjlm123", // DUPE -> ChJa
         imageNameOverride: "",
         uniqueId: "CJLM",
         url: "https://pixeljoint.com/p/220173.htm"
@@ -450,7 +450,7 @@ var artists = [
         url: "https://bsky.app/profile/zabludoki.bsky.social"
     },
     {
-        name : "Don", 
+        name : "Don", // DUPE -> Donpo
         imageNameOverride: "",
         uniqueId: "DON0",
         url: "https://bsky.app/profile/donpixels.bsky.social"
@@ -462,7 +462,7 @@ var artists = [
         url: "https://www.instagram.com/donfastidius1337/"
     },
     {
-        name : "Donpo", 
+        name : "Donpo", // aka Don
         imageNameOverride: "",
         uniqueId: "DONP",
         url: "https://bsky.app/profile/donpixels.bsky.social"

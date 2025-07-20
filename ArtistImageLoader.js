@@ -10,7 +10,7 @@ artist_container.innerHTML = '';
 artists.forEach(artist => {
     // Prepare the HTML block corresponding to an area and its associated credts
     var html = 
-    `<div class="col-sm-1">
+    `<div class="col-sm-2">
         <a href="${artist.url}" target="_blank" >
         <img src="${GetArtistImagePath(artist)}" class="thumb-img">
         <p class="ArtistName">${artist.name}</h1>
