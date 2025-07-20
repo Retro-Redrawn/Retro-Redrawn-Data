@@ -7,6 +7,7 @@
 const artist_container = document.querySelector('#ArtistCollection');
 artist_container.innerHTML = '';
 const unk_img = GetArtistImagePath(GetArtistData('UNDF'));
+var count = 0;
 
 artists.forEach(artist => {
     // Prepare the HTML block corresponding to an area and its associated credts
@@ -20,4 +21,8 @@ artists.forEach(artist => {
         </a>
     </div>`
     artist_container.innerHTML += html
+    count++;
 });
+
+const artist_count = document.querySelector('#ArtistCount');
+artist_count.innerHTML = `Total Artists: ${count}`
