@@ -319,13 +319,6 @@ var artists = [
         redraws: []
     },
     {
-        name : "cjlm123", // DUPE -> ChJa
-        imageNameOverride: "",
-        uniqueId: "CJLM",
-        url: "https://pixeljoint.com/p/220173.htm",
-        redraws: []
-    },
-    {
         name : "ckelsallpxls", 
         imageNameOverride: "",
         uniqueId: "CKEL",
@@ -535,13 +528,6 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "DOKI",
         url: "https://bsky.app/profile/zabludoki.bsky.social",
-        redraws: []
-    },
-    {
-        name : "Don", // DUPE -> Donpo
-        imageNameOverride: "",
-        uniqueId: "DON0",
-        url: "https://bsky.app/profile/donpixels.bsky.social",
         redraws: []
     },
     {
