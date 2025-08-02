@@ -22,7 +22,7 @@ var artists = [
         name : "1800FROGS", 
         imageNameOverride: "",
         uniqueId: "1800",
-        url: "https://twitter.com/1800frogs",
+        url: "https://x.com/1800frogs",
         redraws: ['JOHT']
     },
     //#endregion
@@ -150,7 +150,7 @@ var artists = [
         name : "audreyTBDS", 
         imageNameOverride: "",
         uniqueId: "AUDR",
-        url: "https://twitter.com/audreytbds",
+        url: "https://x.com/audreytbds",
         redraws: ['JOHT']
     },
     //#endregion
@@ -245,14 +245,14 @@ var artists = [
         name : "came2slide", 
         imageNameOverride: "",
         uniqueId: "CAME",
-        url: "https://twitter.com/came2slide",
+        url: "https://bsky.app/profile/came2slide.bsky.social",
         redraws: ['JOHT']
     },
     {
         name : "Cerberus", 
         imageNameOverride: "",
         uniqueId: "CERB",
-        url: "https://twitter.com/HellhoundVideo",
+        url: "https://x.com/HellhoundVideo",
         redraws: []
     },
     {
@@ -708,7 +708,7 @@ var artists = [
         name : "gravityblocks", 
         imageNameOverride: "",
         uniqueId: "GRAV",
-        url: "https://twitter.com/gravityblocks1",
+        url: "https://x.com/gravityblocks1",
         redraws: []
     },
     //#endregion
@@ -961,7 +961,7 @@ var artists = [
         name : "Kiln", 
         imageNameOverride: "",
         uniqueId: "KILN",
-        url: "https://twitter.com/azlef123",
+        url: "https://x.com/azlef123",
         redraws: []
     },
     {
@@ -1233,7 +1233,7 @@ var artists = [
         name : "NdieCity", 
         imageNameOverride: "",
         uniqueId: "NDIE",
-        url: "https://twitter.com/ndiecity",
+        url: "https://bsky.app/profile/ndiecity.bsky.social",
         redraws: ['JOHT']
     },
     {
@@ -1261,7 +1261,7 @@ var artists = [
         name : "NHMoon", 
         imageNameOverride: "",
         uniqueId: "NHMO",
-        url: "https://twitter.com/NHorologiumRPG",
+        url: "https://x.com/NHorologiumRPG",
         redraws: []
     },
     {
@@ -1419,7 +1419,7 @@ var artists = [
         name : "PixelSword94", 
         imageNameOverride: "",
         uniqueId: "PIXE_7",
-        url: "https://twitter.com/pixelsword94",
+        url: "https://bsky.app/profile/pixelsword94.bsky.social",
         redraws: []
     },
     {
@@ -1698,7 +1698,7 @@ var artists = [
         name : "shdCharm",
         imageNameOverride: "",
         uniqueId: "SHDC",
-        url: "https://twitter.com/shdcharm",
+        url: "https://x.com/shdcharm",
         redraws: ['JOHT']
     },
     {
@@ -1719,7 +1719,7 @@ var artists = [
         name : "SilssP", 
         imageNameOverride: "",
         uniqueId: "SILS",
-        url: "https://twitter.com/silssp",
+        url: "https://bsky.app/profile/silssp.bsky.social",
         redraws: ['JOHT']
     },
     {
@@ -1825,13 +1825,6 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "SUKI",
         url: "https://www.instagram.com/sukinapan/",
-        redraws: []
-    },
-    {
-        name : "SuperZikoure", 
-        imageNameOverride: "",
-        uniqueId: "SUPE",
-        url: "https://twitter.com/SuperZikoure",
         redraws: []
     },
     {
@@ -2012,7 +2005,7 @@ var artists = [
         name : "VioletVT_", 
         imageNameOverride: "",
         uniqueId: "VIOL",
-        url: "https://twitter.com/violetvt_",
+        url: "https://x.com/violetvt_",
         redraws: ['JOHT']
     },
     {
@@ -2028,7 +2021,7 @@ var artists = [
         name : "Warxwell", 
         imageNameOverride: "",
         uniqueId: "WARX",
-        url: "https://twitter.com/warxwell",
+        url: "https://x.com/warxwell",
         redraws: ['JOHT']
     },
     {
@@ -2157,7 +2150,7 @@ var artists = [
     //#endregion
     //#region Z
     {
-        name : "Zaebucca", 
+        name : "Zaebucca", // aka sus
         imageNameOverride: "",
         uniqueId: "ZAEB",
         url: "https://zaebucca.carrd.co/",
@@ -2167,8 +2160,15 @@ var artists = [
         name : "Zernek", 
         imageNameOverride: "",
         uniqueId: "ZERN",
-        url: "https://twitter.com/Zernek1",
+        url: "https://bsky.app/profile/zernek.bsky.social",
         redraws: ['CAST']
+    },
+    {
+        name : "Zikoure", // aka SuperZikoure 
+        imageNameOverride: "",
+        uniqueId: "SUPE",
+        url: "https://bsky.app/profile/zikoure.me",
+        redraws: []
     },
     {
         name : "Zushi3DHero", 
