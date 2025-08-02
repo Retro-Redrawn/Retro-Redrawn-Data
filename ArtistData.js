@@ -469,7 +469,7 @@ var artists = [
     },
     {
         name : "ddoobysnax", // aka ddooby
-        imageNameOverride: "",
+        imageNameOverride: "ddooby",
         uniqueId: "DDOO",
         url: "https://bsky.app/profile/ddoobysnax.bsky.social",
         redraws: []
@@ -708,7 +708,7 @@ var artists = [
         name : "gravityblocks", 
         imageNameOverride: "",
         uniqueId: "GRAV",
-        url: "",
+        url: "https://twitter.com/gravityblocks1",
         redraws: []
     },
     //#endregion
@@ -1207,8 +1207,8 @@ var artists = [
         redraws: ['JOHT']
     },
     {
-        name : "MursellJ", 
-        imageNameOverride: "",
+        name : "MürsellJ", 
+        imageNameOverride: "MursellJ",
         uniqueId: "MURS",
         url: "https://x.com/MursellJ_art",
         redraws: []
@@ -1914,7 +1914,7 @@ var artists = [
         redraws: []
     }, 
     {
-        name : "TidnBits", 
+        name : "TidnBits", // aka Tiddles'N'Bits
         imageNameOverride: "",
         uniqueId: "TIDN",
         url: "https://x.com/TidnBits",
