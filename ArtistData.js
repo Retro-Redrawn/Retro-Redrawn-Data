@@ -647,7 +647,7 @@ var artists = [
         redraws: []
     },
     {
-        name : "Foo", // aka Foofarawr
+        name : "Foofarawr", // aka Foo
         imageNameOverride: "",
         uniqueId: "FOOF",
         url: "https://linktr.ee/foofarawr",
