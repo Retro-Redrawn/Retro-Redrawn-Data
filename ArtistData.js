@@ -711,6 +711,13 @@ var artists = [
         url: "https://x.com/gravityblocks1",
         redraws: []
     },
+    {
+        name : "Gwen Sandel", 
+        imageNameOverride: "GwenSandel",
+        uniqueId: "GWEN",
+        url: "https://gwensandel.neocities.org/",
+        redraws: []
+    },
     //#endregion
     //#region H
     {
