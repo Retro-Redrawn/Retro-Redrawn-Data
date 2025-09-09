@@ -1935,6 +1935,13 @@ var artists = [
         redraws: []
     },
     {
+        name : "Toasted", 
+        imageNameOverride: "",
+        uniqueId: "TOAS",
+        url: "https://www.instagram.com/toasted_pixel/",
+        redraws: []
+    },	
+    {
         name : "TolerableToast", // aka MageUntalented 
         imageNameOverride: "",
         uniqueId: "TOLE",
