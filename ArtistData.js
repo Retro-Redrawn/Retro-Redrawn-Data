@@ -581,6 +581,13 @@ var artists = [
         url: "https://x.com/EdelweissPkmn",
         redraws: ['JOHT']
     },
+	{
+        name : "edudafa", 
+        imageNameOverride: "",
+        uniqueId: "EDUD",
+        url: "https://edudafa.itch.io/",
+        redraws: ['JOHT']
+    },
     {
         name : "Elementalisman", 
         imageNameOverride: "",
@@ -704,6 +711,13 @@ var artists = [
         url: "https://bsky.app/profile/glitchedpie.bsky.social",
         redraws: []
     },
+	{
+        name : "Goldstarknight", 
+        imageNameOverride: "unknown_artist",
+        uniqueId: "GOLD",
+        url: "https://goldstarknight.carrd.co/",
+        redraws: ['JOHT']
+    },
     {
         name : "gravityblocks", 
         imageNameOverride: "",
@@ -798,6 +812,13 @@ var artists = [
         uniqueId: "INTE",
         url: "https://www.pixiv.net/en/users/110502169",
         redraws: []
+    },
+	{
+        name : "IronUdon", 
+        imageNameOverride: "",
+        uniqueId: "IRON",
+        url: "https://ironudon.carrd.co/",
+        redraws: ['JOHT']
     },
     {
         name : "ItriPixels", 
@@ -1020,6 +1041,13 @@ var artists = [
         url: "https://www.instagram.com/kumporigin/",
         redraws: []
     },
+	{
+        name : "Kyx", 
+        imageNameOverride: "",
+        uniqueId: "KYXX",
+        url: "https://bsky.app/profile/channelkyx.bsky.social",
+        redraws: ['JOHT']
+    },
     //#endregion
     //#region L
     {
@@ -1149,6 +1177,13 @@ var artists = [
         uniqueId: "MEGA",
         url: "https://bsky.app/profile/megatoon1234.bsky.social",
         redraws: []
+    },
+	    {
+        name : "Meno", 
+        imageNameOverride: "unknown_artist",
+        uniqueId: "MENO",
+        url: "https://menopixel.net",
+        redraws: ['JOHT']
     },
     {
         name : "MetaruPX", 
@@ -1301,6 +1336,12 @@ var artists = [
         url: "https://bsky.app/profile/ohnoitsmonroe.bsky.social",
         redraws: []
     },
+	{
+        name : "Olive",  // aka livvygizzy
+        imageNameOverride: "unknown_artist",
+        uniqueId: "OLIV",
+        url: "https://livvyglizzy.carrd.co/",
+        redraws: ['JOHT']
     {
         name : "oouhriu", 
         imageNameOverride: "",
@@ -1935,11 +1976,18 @@ var artists = [
         redraws: []
     },
     {
+        name : "Toadzillart", 
+        imageNameOverride: "",
+        uniqueId: "TODZ",
+        url: "https://x.com/Toadzillart",
+        redraws: ['JOHT']
+    },
+	{
         name : "Toasted", 
         imageNameOverride: "",
         uniqueId: "TOAS",
         url: "https://www.instagram.com/toasted_pixel/",
-        redraws: []
+        redraws: ['JOHT']
     },	
     {
         name : "TolerableToast", // aka MageUntalented 
