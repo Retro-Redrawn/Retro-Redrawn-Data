@@ -741,9 +741,9 @@ var artists = [
     },
 	{
         name : "Gonstar", 
-        imageNameOverride: "unknown_artist",
+        imageNameOverride: "",
         uniqueId: "GONS",
-        url: "https://x.com/Gonstar_",
+        url: "https://www.instagram.com/gonstar_",
         redraws: ['JOHT']
     },
     {
@@ -1215,7 +1215,7 @@ var artists = [
     },
 	    {
         name : "Meno", 
-        imageNameOverride: "unknown_artist",
+        imageNameOverride: "",
         uniqueId: "MENO",
         url: "https://menopixel.net",
         redraws: ['JOHT']
@@ -1380,7 +1380,7 @@ var artists = [
     },
 	{
         name : "Olive",  // aka livvygizzy
-        imageNameOverride: "unknown_artist",
+        imageNameOverride: "",
         uniqueId: "OLIV",
         url: "https://livvyglizzy.carrd.co/",
         redraws: ['JOHT']
