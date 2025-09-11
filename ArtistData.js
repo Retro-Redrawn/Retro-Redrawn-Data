@@ -97,6 +97,13 @@ var artists = [
         url: "https://linktr.ee/arkflinn",
         redraws: ['CAST']
     },
+	{
+        name : "ARONBAE", 
+        imageNameOverride: "",
+        uniqueId: "ARON",
+        url: "https://linktr.ee/aronbae",
+        redraws: ['JOHT']
+    },
     {
         name : "Artificer", 
         imageNameOverride: "",
@@ -639,6 +646,13 @@ var artists = [
         url: "https://fiopico.wixsite.com/fiopico",
         redraws: []
     },
+	{
+        name : "Flavia-Elric",
+        imageNameOverride: "flaviaelric",
+        uniqueId: "FLAV",
+        url: "https://flavia-elric.carrd.co/",
+        redraws: []
+    },
     {
         name : "floppy",
         imageNameOverride: "",
@@ -672,6 +686,13 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "FRY0",
         url: "https://bsky.app/profile/westenfry.bsky.social",
+        redraws: []
+    },
+	{
+        name : "Fuzzy",
+        imageNameOverride: "",
+        uniqueId: "FUZZ",
+        url: "https://www.instagram.com/fuzzystudios01/",
         redraws: []
     },
     //#endregion
@@ -713,9 +734,16 @@ var artists = [
     },
 	{
         name : "Goldstarknight", 
-        imageNameOverride: "unknown_artist",
+        imageNameOverride: "",
         uniqueId: "GOLD",
         url: "https://goldstarknight.carrd.co/",
+        redraws: ['JOHT']
+    },
+	{
+        name : "Gonstar", 
+        imageNameOverride: "unknown_artist",
+        uniqueId: "GONS",
+        url: "https://x.com/Gonstar_",
         redraws: ['JOHT']
     },
     {
@@ -761,6 +789,13 @@ var artists = [
         uniqueId: "HAYW",
         url: "https://haywirejo.com/",
         redraws: ['CAST']
+    },
+	{
+        name : "Hibi", 
+        imageNameOverride: "",
+        uniqueId: "HIBI",
+        url: "https://beacons.ai/hibiverse",
+        redraws: ['JOHT']
     },
     {
         name : "huttaburger", 
@@ -1044,7 +1079,7 @@ var artists = [
 	{
         name : "Kyx", 
         imageNameOverride: "",
-        uniqueId: "KYXX",
+        uniqueId: "KYX0",
         url: "https://bsky.app/profile/channelkyx.bsky.social",
         redraws: ['JOHT']
     },
@@ -1311,6 +1346,13 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "NINE",
         url: "https://x.com/NinetyDev",
+        redraws: []
+    },
+	{
+        name : "NnekArt", 
+        imageNameOverride: "",
+        uniqueId: "NNEK",
+        url: "https://bsky.app/profile/nnekart.bsky.sociall",
         redraws: []
     },
     {
