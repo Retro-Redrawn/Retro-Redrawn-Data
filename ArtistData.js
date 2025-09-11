@@ -1342,6 +1342,7 @@ var artists = [
         uniqueId: "OLIV",
         url: "https://livvyglizzy.carrd.co/",
         redraws: ['JOHT']
+	},
     {
         name : "oouhriu", 
         imageNameOverride: "",
