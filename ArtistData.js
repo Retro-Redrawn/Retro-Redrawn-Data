@@ -1535,13 +1535,6 @@ var artists = [
         redraws: []
     },
     {
-        name : "PokemonEstelar", 
-        imageNameOverride: "",
-        uniqueId: "POKE",
-        url: "https://bsky.app/profile/pokemonestelar.bsky.social",
-        redraws: []
-    },
-    {
         name : "PolyB", 
         imageNameOverride: "",
         uniqueId: "POLY_2",
