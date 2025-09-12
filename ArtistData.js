@@ -1120,6 +1120,13 @@ var artists = [
         url: "https://x.com/LovetheLoveland",
         redraws: []
     },
+	{
+        name : "luciano", 
+        imageNameOverride: "",
+        uniqueId: "LUCI",
+        url: "https://www.instagram.com/luciano.draws/",
+        redraws: []
+    },
     {
         name : "LuisEnr13182831", 
         imageNameOverride: "",
