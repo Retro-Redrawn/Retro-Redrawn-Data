@@ -2303,7 +2303,7 @@ var artists = [
         imageNameOverride: "unknown_artist",
         uniqueId: "UNDF",       
         url: ""
-    }
+    },
 	{
         name : "Unclaimed",   // Used for unclaimed maps
         imageNameOverride: "discord",
