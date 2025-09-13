@@ -1647,7 +1647,7 @@ var artists = [
         name : "Reesereeserson", 
         imageNameOverride: "",
         uniqueId: "REES",
-        url: "https://bsky.app/profile/reesereeserson.bsky.social",
+        url: "https://x.com/reesereeserson",
         redraws: []
     },
     {
