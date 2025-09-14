@@ -1120,11 +1120,25 @@ var artists = [
         url: "https://x.com/LovetheLoveland",
         redraws: []
     },
+	{
+        name : "luciano", 
+        imageNameOverride: "",
+        uniqueId: "LUCI",
+        url: "https://www.instagram.com/luciano.draws/",
+        redraws: []
+    },
     {
         name : "LuisEnr13182831", 
         imageNameOverride: "",
         uniqueId: "LUIS",
         url: "https://x.com/LuisEnr13182831",
+        redraws: []
+    },
+	{
+        name : "lumena-tan", 
+        imageNameOverride: "lumena_tan",
+        uniqueId: "LUME",
+        url: "https://x.com/lumena_tan",
         redraws: []
     },
     {
@@ -1534,6 +1548,13 @@ var artists = [
         url: "https://linktr.ee/pkdotts",
         redraws: []
     },
+	{
+        name : "Pokerus", 
+        imageNameOverride: "",
+        uniqueId: "PRUS",
+        url: "https://www.youtube.com/@pokerusproject",
+        redraws: []
+    },
     {
         name : "PolyB", 
         imageNameOverride: "",
@@ -1626,7 +1647,7 @@ var artists = [
         name : "Reesereeserson", 
         imageNameOverride: "",
         uniqueId: "REES",
-        url: "https://bsky.app/profile/reesereeserson.bsky.social",
+        url: "https://x.com/reesereeserson",
         redraws: []
     },
     {
@@ -2282,6 +2303,12 @@ var artists = [
         imageNameOverride: "unknown_artist",
         uniqueId: "UNDF",       
         url: ""
+    },
+	{
+        name : "Unclaimed",   // Used for unclaimed maps
+        imageNameOverride: "discord",
+        uniqueId: "OPEN",       
+        url: "https://discord.gg/gCVj29v7rM"
     }
     //#endregion
 ];
