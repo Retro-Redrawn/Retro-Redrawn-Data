@@ -7,12 +7,13 @@
 const artist_container = document.querySelector('#ArtistCollection');
 artist_container.innerHTML = '';
 const unk_artist = 'UNDF';
+const open_artist = 'OPEN';
 const unk_img = GetArtistImagePath(GetArtistData(unk_artist));
 var count = 0;
 
 artists.forEach(artist => {
     // Prepare the HTML block corresponding to an area and its associated credts
-    if (artist.uniqueId != unk_artist)
+    if (artist.uniqueId != unk_artist && artist.uniqueId != open_artist)
     {
         var art_img = GetArtistImagePath(artist);
         art_img = art_img == '' ? unk_img : art_img;
