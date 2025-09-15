@@ -197,6 +197,13 @@ var artists = [
         url: "https://beetrootpaul.com/",
         redraws: []
     },
+	{
+        name : "Claire Solano | Bicinno", 
+        imageNameOverride: "bicinno",
+        uniqueId: "BICI",
+        url: "https://bsky.app/profile/bicinno.bsky.social",
+        redraws: ['JOHT']
+    },
     {
         name : "Blam", 
         imageNameOverride: "",
