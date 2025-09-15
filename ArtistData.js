@@ -2306,7 +2306,7 @@ var artists = [
     //#endregion
     //#region ?
     {
-        name : "no artist",   // Used for dummy
+        name : "????",   // Used for dummy
         imageNameOverride: "unknown_artist",
         uniqueId: "UNDF",       
         url: ""
