@@ -976,13 +976,6 @@ var artists = [
         url: "https://x.com/julcreutz",
         redraws: []
     },
-    {
-        name : "Justice8Knight", 
-        imageNameOverride: "",
-        uniqueId: "JUST",
-        url: "https://x.com/Justice8Knight",
-        redraws: []
-    },
     //#endregion
     //#region K
     {
@@ -2253,7 +2246,7 @@ var artists = [
         redraws: []
     },
     {
-        name : "Yolkghost", // aka Yolklyghostly
+        name : "Yolkghost", // aka Yolklyghostly, Justice8Knight
         imageNameOverride: "",
         uniqueId: "YOLK",
         url: "https://x.com/yolklyghostly/",
