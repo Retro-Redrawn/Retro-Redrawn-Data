@@ -1606,6 +1606,13 @@ var artists = [
     },
     //#endregion
     //#region Q
+	{
+        name : "Chris Quay", // aka Quay
+        imageNameOverride: "Quay",
+        uniqueId: "QUAY",
+        url: "https://bsky.app/profile/chrisquay.com",
+        redraws: []
+    },
     {
         name : "Quickalas", 
         imageNameOverride: "quickalas",
