@@ -550,6 +550,13 @@ var artists = [
         uniqueId: "DONF",
         url: "https://www.instagram.com/donfastidius1337/",
         redraws: ['CAST']
+    },    
+	{
+        name : "DontaeRiceArt", 
+        imageNameOverride: "",
+        uniqueId: "DONT",
+        url: "https://bsky.app/profile/dontaericeart.bsky.social",
+        redraws: ['JOHT']
     },
     {
         name : "Donpo", // aka Don
@@ -600,6 +607,13 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "EDUD",
         url: "https://edudafa.itch.io/",
+        redraws: ['JOHT']
+    },
+	{
+        name : "Egotistical Ape", 
+        imageNameOverride: "EgotisticalApe",
+        uniqueId: "EGOT",
+        url: "https://bsky.app/profile/wrathofgibbon.bsky.social",
         redraws: ['JOHT']
     },
     {
@@ -724,6 +738,13 @@ var artists = [
         uniqueId: "GIFN",
         url: "https://x.com/gif_not_jif",
         redraws: []
+    },
+	{
+        name : "GinkgoTrees", 
+        imageNameOverride: "",
+        uniqueId: "GINK",
+        url: "https://x.com/MrGinkgoTrees",
+        redraws: ['JOHT']
     },
     {
         name : "GlacierWold8", 
@@ -1585,6 +1606,13 @@ var artists = [
     },
     //#endregion
     //#region Q
+	{
+        name : "Chris Quay", // aka Quay
+        imageNameOverride: "Quay",
+        uniqueId: "QUAY",
+        url: "https://bsky.app/profile/chrisquay.com",
+        redraws: []
+    },
     {
         name : "Quickalas", 
         imageNameOverride: "quickalas",
@@ -2229,7 +2257,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "YAMB",
         url: "https://x.com/Yam_Boy_",
-        redraws: []
+        redraws: ['JOHT']
     },
     {
         name : "Yammy", 
