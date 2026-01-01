@@ -7,7 +7,8 @@ var template = [
     }
 ];
 
-var redraws = ['HYRU', 'JOHT', 'KANT', 'CAST', 'SMB3', 'KOHO', 'PIKM', 'KRBA']
+// Complete: CAST, JOHT (exteriors)
+var redraws = ['HYRU', 'JOHT', 'KANT', 'CAST', 'SMB3', 'KOHO', 'PIKM', 'KRBA', 'MEG2']
 
 var artists = [
     //#region #

@@ -1,6 +1,5 @@
 //import artistsData from './artistData.json';
-const artistImgDir = "https://retro-redrawn.github.io/Retro-Redrawn-Data/avatars/";
-//const artistImgDir = "avatars/";
+var artistImgDir = "https://retro-redrawn.github.io/Retro-Redrawn-Data/avatars/";
 const artistImgExtension = ".png";
 
 /** Fetches the data for an artist */
