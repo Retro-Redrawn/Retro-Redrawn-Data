@@ -74,7 +74,7 @@ var tloz_areas = [
     },
     {
         ident: "2-3",
-        artistId: "JAVV"
+        artistId: "JAVE"
     },
     {
         ident: "2-4",
@@ -240,7 +240,7 @@ var tloz_areas = [
     },
     {
         ident: "4-12",
-        artistId: "NICK"
+        artistId: "MOBY"
     },
     {
         ident: "4-13",
