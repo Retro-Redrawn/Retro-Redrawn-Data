@@ -233,7 +233,7 @@ var artists = [
         redraws: ['CAST']
     },
     {
-        name : "Brando",
+        name : "Brando", // aka FullMetalBrando
         imageNameOverride: "",
         uniqueId: "BRAN",
         url: "https://linktr.ee/brandoparm",
@@ -284,17 +284,17 @@ var artists = [
         redraws: []
     },
     {
-        name : "Chico D. Mar", // aka MerSaloon
-        imageNameOverride: "ChicoDMar",
-        uniqueId: "CHIB",
-        url: "https://linktr.ee/MerSaloon",
-        redraws: []
-    },
-    {
         name : "Chibi_Jame", 
         imageNameOverride: "",
         uniqueId: "CHIB",
         url: "https://x.com/Chibi_Jame",
+        redraws: []
+    },
+    {
+        name : "Chico D. Mar", // aka MerSaloon, offbeat
+        imageNameOverride: "ChicoDMar",
+        uniqueId: "CHIC",
+        url: "https://linktr.ee/MerSaloon",
         redraws: []
     },
     {
@@ -826,7 +826,7 @@ var artists = [
         redraws: ['JOHT']
     },
     {
-        name : "huttaburger", 
+        name : "huttaburger", // aka Hut
         imageNameOverride: "",
         uniqueId: "HUTT",
         url: "https://x.com/huttaburger",
@@ -991,7 +991,7 @@ var artists = [
         redraws: []
     },
     {
-        name : "Julian Creutz", 
+        name : "Julian Creutz", // aka julcreutz
         imageNameOverride: "JulianCreutz",
         uniqueId: "JULI_2",
         url: "https://x.com/julcreutz",
@@ -1205,6 +1205,13 @@ var artists = [
         uniqueId: "MATT",
         url: "https://bsky.app/profile/mattstov.bsky.social",
         redraws: ['CAST']
+    },
+    {
+        name : "Mattyace", 
+        imageNameOverride: "",
+        uniqueId: "MATT_2",
+        url: "",
+        redraws: ['']
     },
     {
         name : "MaxiSZ", 
