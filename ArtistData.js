@@ -362,7 +362,7 @@ var artists = [
         redraws: ['CAST']
     },
     {
-        name : "Corbí", 
+        name : "Corb\u{ED}", 
         imageNameOverride: "Corbi",
         uniqueId: "CORB",
         url: "https://x.com/VCorbi",
