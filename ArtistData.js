@@ -6,8 +6,7 @@ var template = [
         url: "Ideally a link hub to avoid constant updates."
     }
 ];
-
-// Complete: CAST, HYRU, KANT, JOHT (exteriors), 
+ 
 var redraws = ['HYRU', 'JOHT', 'KANT', 'CAST', 'SMB3', 'KOHO', 'PIKM', 'KRBA', 'MEG2']
 
 var artists = [
@@ -501,7 +500,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "DEVI",
         url: "https://bsky.app/profile/devifoxx.bsky.social",
-        redraws: ['KOHO', 'KRBA']
+        redraws: ['JOHT', 'KOHO', 'KRBA']
     },
     {
         name : "Dewdneym", // aka Dewndeym 
@@ -1554,7 +1553,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "PIXE_7",
         url: "https://bsky.app/profile/pixelsword94.bsky.social",
-        redraws: []
+        redraws: ['JOHT']
     },
     {
         name : "PizzaFrankza", 
