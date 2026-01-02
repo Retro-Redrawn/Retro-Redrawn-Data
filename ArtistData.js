@@ -624,7 +624,7 @@ var artists = [
     {
         name : "Fantom Flash", // aka Dunca 
         imageNameOverride: "FantomFlash",
-        uniqueId: "DUMD",
+        uniqueId: "FANT",
         url: "https://bsky.app/profile/fantomflasch.bsky.social",
         redraws: ['KRBA']
     },
