@@ -1554,6 +1554,13 @@ var artists = [
         redraws: ['KANT']
     },
 	{
+        name : "Okkle", 
+        imageNameOverride: "",
+        uniqueId: "OKKL",
+        url: "",
+        redraws: ['PIKM']
+    },
+	{
         name : "Olive",  // aka livvygizzy
         imageNameOverride: "",
         uniqueId: "OLIV",
