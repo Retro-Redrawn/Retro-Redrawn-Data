@@ -524,6 +524,13 @@ var artists = [
         redraws: ['SMB3']
     },
     {
+        name : "Deon Quinlivan",
+        imageNameOverride: "DeonQuinlivan",
+        uniqueId: "DEON",
+        url: "https://x.com/DeonQuinlivan",
+        redraws: ['PIKM']
+    },
+    {
         name : "Derpkip", 
         imageNameOverride: "",
         uniqueId: "DERP",
@@ -1386,7 +1393,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "MELE",
         url: "https://bsky.app/profile/meleew.bsky.social",
-        redraws: ['KRBA']
+        redraws: ['KRBA', 'PIKM']
     },
 	{
         name : "Meno", 
