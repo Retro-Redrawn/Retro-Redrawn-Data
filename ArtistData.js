@@ -1564,7 +1564,7 @@ var artists = [
         name : "Okkle", 
         imageNameOverride: "",
         uniqueId: "OKKL",
-        url: "",
+        url: "https://www.artstation.com/okkle",
         redraws: ['PIKM']
     },
 	{
