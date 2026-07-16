@@ -244,7 +244,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "BLIN",
         url: "https://linktr.ee/blind3dbylight",
-        redraws: ['HYRU', 'KOHO', 'SMB3']
+        redraws: ['HYRU', 'KOHO', 'KRBA', 'SMB3']
     },
     {
         name : "Blindeduif", 
@@ -252,6 +252,13 @@ var artists = [
         uniqueId: "BLIN_2",
         url: "https://linktr.ee/blindeduif",
         redraws: ['CAST', 'HYRU', 'JOHT', 'KANT', 'KOHO', 'KRBA', 'SMB3']
+    },
+    {
+        name : "BluSprinks", 
+        imageNameOverride: "",
+        uniqueId: "BLUS",
+        url: "https://bsky.app/profile/blusprinks.bsky.social",
+        redraws: ['KRBA']
     },
     {
         name : "Brando", // aka FullMetalBrando
@@ -276,6 +283,13 @@ var artists = [
     },
     //#endregion
     //#region C
+	{
+        name : "Cab", 
+        imageNameOverride: "",
+        uniqueId: "CAB0",
+        url: "https://bsky.app/profile/cabstract.bsky.social",
+        redraws: ['KRBA']
+    },
     {
         name : "came2slide", 
         imageNameOverride: "",
@@ -317,6 +331,13 @@ var artists = [
         uniqueId: "CHIC",
         url: "https://linktr.ee/MerSaloon",
         redraws: ['HYRU']
+    },
+	{
+        name : "ChiliDAWWGS", 
+        imageNameOverride: "",
+        uniqueId: "CHIL",
+        url: "https://scratch.mit.edu/users/ChiliDAWWGS_/",
+        redraws: ['KRBA']
     },
     {
         name : "ChJa", // aka cjlm123
@@ -698,7 +719,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "EMMA",
         url: "https://linktr.ee/emmazapan",
-        redraws: ['JOHT', 'KANT', 'KOHO']
+        redraws: ['JOHT', 'KANT', 'KOHO', 'KRBA']
     },
     {
         name : "Enchanteur", // aka Pick a Boo, Pikaboo 
@@ -742,7 +763,7 @@ var artists = [
         imageNameOverride: "flaviaelric",
         uniqueId: "FLAV",
         url: "https://flavia-elric.carrd.co/",
-        redraws: ['JOHT']
+        redraws: ['JOHT', 'KRBA']
     },
     {
         name : "floppy",
@@ -1421,7 +1442,7 @@ var artists = [
         imageNameOverride: "Mikel",
         uniqueId: "MIKE",
         url: "https://bsky.app/profile/romanoojea.bsky.social",
-        redraws: ['JOHT', 'KOHO']
+        redraws: ['JOHT', 'KOHO', 'KRBA', 'PIKM']
     },
     {
         name : "MikManc", 
@@ -2129,6 +2150,13 @@ var artists = [
         redraws: ['KANT']
     },
     {
+        name : "Super Edco", 
+        imageNameOverride: "SuperEdco",
+        uniqueId: "SUPE",
+        url: "https://www.instagram.com/super_edco/",
+        redraws: ['KRBA']
+    },
+    {
         name : "sus", 
         imageNameOverride: "",
         uniqueId: "SUS0",
@@ -2271,6 +2299,13 @@ var artists = [
         redraws: ['HYRU']
     },
     {
+        name : "Trianull", 
+        imageNameOverride: "",
+        uniqueId: "TRIA",
+        url: "https://x.com/Trianull",
+        redraws: ['KRBA']
+    },
+    {
         name : "Tyltal", 
         imageNameOverride: "",
         uniqueId: "TYLT",
@@ -2361,11 +2396,11 @@ var artists = [
         redraws: ['KANT']
     },
     {
-        name : "Wilperi", 
+        name : "Wilperi", // aka Wilbs
         imageNameOverride: "",
         uniqueId: "WILP",
         url: "https://linktr.ee/wilperi",
-        redraws: ['KOHO', 'SMB3']
+        redraws: ['KOHO', 'KRBA', 'SMB3']
     },
     {
         name : "witch_warren", 
