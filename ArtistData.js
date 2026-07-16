@@ -2152,7 +2152,7 @@ var artists = [
     {
         name : "Super Edco", 
         imageNameOverride: "SuperEdco",
-        uniqueId: "SUPE",
+        uniqueId: "SUPE_2",
         url: "https://www.instagram.com/super_edco/",
         redraws: ['KRBA']
     },
