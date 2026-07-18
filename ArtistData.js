@@ -2267,7 +2267,7 @@ var artists = [
         name : "Toasted", 
         imageNameOverride: "",
         uniqueId: "TOAS",
-        url: "https://www.instagram.com/toasted_pixel/",
+        url: "https://bsky.app/profile/toastedpixel.bsky.social",
         redraws: ['JOHT']
     },	
     {
