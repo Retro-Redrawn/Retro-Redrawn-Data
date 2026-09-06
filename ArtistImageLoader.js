@@ -60,6 +60,10 @@ artists.forEach(artist => {
                     image_name = "medal_smb3.png";
                     image_alt = "Super Mario Bros 3 Redrawn Participant";
                     break;
+                case ("SONP"):
+                    image_name = "medal_sonicp.png";
+                    image_alt = "Sonic Pocket Adventure Redrawn Participant";
+                    break;
             }
 
             medals += `<img src="medals/${image_name}" class="medal-img" title="${image_alt}">`
