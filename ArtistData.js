@@ -1896,6 +1896,13 @@ var artists = [
         redraws: ['KRBA', 'MEG2']
     },
     {
+        name : "rh_thing", // aka Whawha, Wawa
+        imageNameOverride: "",
+        uniqueId: "WHAW",
+        url: "https://bsky.app/profile/rhthing.bsky.social",
+        redraws: ['KRBA', 'MEG2']
+    },
+    {
         name : "Robin Quinn", 
         imageNameOverride: "RobinQuinn",
         uniqueId: "ROBI",
@@ -2394,13 +2401,6 @@ var artists = [
         uniqueId: "WENY",
         url: "https://www.instagram.com/weny_arts4",
         redraws: ['KANT']
-    },
-    {
-        name : "Whawha", // aka Wawa
-        imageNameOverride: "",
-        uniqueId: "WHAW",
-        url: "https://bsky.app/profile/whawha.bsky.social",
-        redraws: ['KRBA', 'MEG2']
     },
     {
         name : "willsmithx4", 
