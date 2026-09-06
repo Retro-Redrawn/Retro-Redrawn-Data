@@ -287,7 +287,7 @@ var artists = [
         name : "Cab", 
         imageNameOverride: "",
         uniqueId: "CAB0",
-        url: "https://bsky.app/profile/cabstract.bsky.social",
+        url: "https://bsky.app/profile/s-cabbage.bsky.social",
         redraws: ['KRBA']
     },
     {
