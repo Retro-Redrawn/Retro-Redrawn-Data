@@ -7,7 +7,7 @@ var template = [
     }
 ];
  
-var redraws = ['HYRU', 'JOHT', 'KANT', 'CAST', 'SMB3', 'KOHO', 'PIKM', 'KRBA', 'MEG2']
+var redraws = ['HYRU', 'JOHT', 'KANT', 'CAST', 'SMB3', 'KOHO', 'PIKM', 'KRBA', 'MEG2', 'SONP']
 
 var artists = [
     //#region 0-9
@@ -863,7 +863,7 @@ var artists = [
         imageNameOverride: "Goooo",
         uniqueId: "GOOO",
         url: "https://bsky.app/profile/gooooman.itch.io",
-        redraws: ['JOHT', 'MEG2']
+        redraws: ['JOHT', 'KRBA', 'MEG2']
     },
 	{
         name : "Gonstar", 
@@ -2101,6 +2101,13 @@ var artists = [
         redraws: ['SMB3']
     },
     {
+        name : "Slima", 
+        imageNameOverride: "",
+        uniqueId: "SLIM",
+        url: "https://slima11.nekoweb.org/",
+        redraws: ['KRBA']
+    },
+    {
         name : "SmarmyElf", 
         imageNameOverride: "",
         uniqueId: "SMAR",
@@ -2140,7 +2147,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "SPAC",
         url: "https://space-agewrangler.newgrounds.com/",
-        redraws: ['SMB3', 'KRBA']
+        redraws: ['KRBA', 'MEG2', 'SMB3']
     },
     {
         name : "SpaceBiker", 
