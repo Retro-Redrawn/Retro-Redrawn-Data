@@ -60,7 +60,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "AFRO",
         url: "https://bsky.app/profile/afroskeleton.itch.io",
-        redraws: ['KRBA', 'MEG2']
+        redraws: ['JOHT', 'KRBA', 'MEG2']
     },
     {
         name : "Agua Hervida", // aka h2ohervida
@@ -640,7 +640,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "DONU",
         url: "https://bsky.app/profile/donutdespair.bsky.social",
-        redraws: ['KRBA']
+        redraws: ['JOHT', 'KRBA']
     }, 
     {
         name : "DrSpectre", 
@@ -863,7 +863,7 @@ var artists = [
         imageNameOverride: "Goooo",
         uniqueId: "GOOO",
         url: "https://bsky.app/profile/gooooman.itch.io",
-        redraws: ['MEG2']
+        redraws: ['JOHT', 'MEG2']
     },
 	{
         name : "Gonstar", 
@@ -1044,7 +1044,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "JESS",
         url: "https://www.instagram.com/jessthegaminghero",
-        redraws: ['KRBA']
+        redraws: ['JOHT', 'KRBA']
     },
     {
         name : "JohnDAnims", 
@@ -1330,7 +1330,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "PIXE",
         url: "https://linktr.ee/pixelmage",
-        redraws: ['KRBA', 'SMB3']
+        redraws: ['JOHT', 'KRBA', 'SMB3']
     },
     {
         name : "Marceles", 
@@ -1516,6 +1516,13 @@ var artists = [
     },
     //#endregion
     //#region N
+    {
+        name : "&#x3093;&#x3099;", // ん゙ ; pronounced 'nnn'
+        imageNameOverride: "nnnn",
+        uniqueId: "NNNN",
+        url: "",
+        redraws: ['JOHT']
+    },
     {
         name : "natnatart", 
         imageNameOverride: "",
@@ -1791,7 +1798,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "POTA",
         url: "https://x.com/generic_most",
-        redraws: ['KOHO', 'KRBA']
+        redraws: ['JOHT', 'KOHO', 'KRBA']
     },
     //#endregion
     //#region Q
@@ -1893,7 +1900,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "REPH",
         url: "https://bsky.app/profile/rephildesign.bsky.social",
-        redraws: ['KRBA', 'MEG2']
+        redraws: ['JOHT', 'KRBA', 'MEG2']
     },
     {
         name : "rh_thing", // aka Whawha, Wawa
@@ -1987,6 +1994,13 @@ var artists = [
         uniqueId: "SALT",
         url: "https://bsky.app/profile/saltiestbunny.bsky.social",
         redraws: ['JOHT', 'KANT']
+    },
+    {
+        name : "Sam Webster", // aka Webster Likes Games
+        imageNameOverride: "SamWebster",
+        uniqueId: "WEBS",
+        url: "https://bsky.app/profile/samwebster.bsky.social",
+        redraws: ['JOHT']
     },
     {
         name : "SamtheSalmon", 
@@ -2108,6 +2122,13 @@ var artists = [
         redraws: ['HYRU']
     },
     {
+        name : "Sofi Solorzano", // aka sofi
+        imageNameOverride: "sofi",
+        uniqueId: "SOFI",
+        url: "https://x.com/Sofimei_JMJ",
+        redraws: ['JOHT']
+    },
+    {
         name : "Sora_x2", 
         imageNameOverride: "",
         uniqueId: "SORA",
@@ -2143,6 +2164,13 @@ var artists = [
         redraws: ['HYRU']
     },
     {
+        name : "stdio.gypsy", // aka art_vandelay
+        imageNameOverride: "stdiogypsy",
+        uniqueId: "STDI",
+        url: "",
+        redraws: ['JOHT']
+    },
+    {
         name : "Stefan", // aka MercuryBD
         imageNameOverride: "",
         uniqueId: "STEF",
@@ -2154,7 +2182,7 @@ var artists = [
         imageNameOverride: "StevenMcCarthy",
         uniqueId: "STEV",
         url: "https://bsky.app/profile/1988stevenm.bsky.social",
-        redraws: ['CAST', 'KRBA', 'MEG2', 'SMB3']
+        redraws: ['CAST', 'JOHT', 'KRBA', 'MEG2', 'SMB3']
     },
     {
         name : "StrawBe", // aka StrawPact
@@ -2384,7 +2412,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "VVVU",
         url: "https://bsky.app/profile/vvvultures.bsky.social",
-        redraws: ['HYRU', 'MEG2', 'PIKM']
+        redraws: ['HYRU', 'JOHT', 'MEG2', 'PIKM']
     },
     //#endregion
     //#region W
