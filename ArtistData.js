@@ -1040,10 +1040,10 @@ var artists = [
         redraws: ['KOHO']
     },
     {
-        name : "JessTheGamingHero", 
+        name : "Jess9800", // aka JessTheGamingHero 
         imageNameOverride: "",
         uniqueId: "JESS",
-        url: "https://www.instagram.com/jessthegaminghero",
+        url: "https://bsky.app/profile/jess9800.bsky.social",
         redraws: ['JOHT', 'KRBA']
     },
     {
@@ -1596,6 +1596,13 @@ var artists = [
     //#endregion
     //#region O
     {
+        name : "Ogladian", 
+        imageNameOverride: "",
+        uniqueId: "OGLA",
+        url: "https://bsky.app/profile/ogladian.bsky.social",
+        redraws: ['JOHT']
+    },
+    {
         name : "OhNoItsMonroe", 
         imageNameOverride: "",
         uniqueId: "OHNO",
@@ -1996,7 +2003,7 @@ var artists = [
         redraws: ['JOHT', 'KANT']
     },
     {
-        name : "Sam Webster", // aka Webster Likes Games
+        name : "Sam Webster", // aka Webster Likes Games, webster89
         imageNameOverride: "SamWebster",
         uniqueId: "WEBS",
         url: "https://bsky.app/profile/samwebster.bsky.social",
