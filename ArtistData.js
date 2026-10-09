@@ -172,7 +172,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "ASPA",
         url: "https://bsky.app/profile/aspabot.com",
-        redraws: ['ASPA']
+        redraws: ['PTCG']
     },
     {
         name : "Atcero", 
