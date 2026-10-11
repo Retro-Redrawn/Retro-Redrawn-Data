@@ -973,7 +973,7 @@ var artists = [
         redraws: ['KANT', 'MEG2', 'SMB3']
     },
     {
-        name : "Ghostbasil", 
+        name : "GhostBasil",  
         imageNameOverride: "",
         uniqueId: "GHOS",
         url: "https://bsky.app/profile/ghostbasil.bsky.social",
