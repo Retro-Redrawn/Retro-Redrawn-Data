@@ -1636,6 +1636,13 @@ var artists = [
         redraws: ['JOHT', 'KRBA', 'SMB3']
     },
     {
+        name : "Mamoru",
+        imageNameOverride: "",
+        uniqueId: "MAMO",
+        url: "https://bsky.app/profile/mamoruhik.bsky.social",
+        redraws: ['PTCG']
+    },
+    {
         name : "Manoel Gomes Neto", // aka manelsworld
         imageNameOverride: "manelsworld",
         uniqueId: "MANO",
