@@ -64,6 +64,13 @@ var artists = [
         url: "https://x.com/AceCanti",
         redraws: ['HYRU']
     },
+	{
+        name : "Acfusion", 
+        imageNameOverride: "",
+        uniqueId: "ACFU",
+        url: "https://bsky.app/profile/acfusionart.bsky.social",
+        redraws: ['JOHT']
+    },
     {
         name : "Afroskeleton", 
         imageNameOverride: "",
