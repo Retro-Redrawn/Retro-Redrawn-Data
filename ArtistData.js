@@ -2502,7 +2502,7 @@ var artists = [
         redraws: ['JOHT', 'KANT']
     },
     {
-        name : "Sam Webster", // aka Webster Likes Games, webster89
+        name : "Webster", // aka Webster Likes Games, webster89
         imageNameOverride: "SamWebster",
         uniqueId: "WEBS",
         url: "https://bsky.app/profile/samwebster.bsky.social",
