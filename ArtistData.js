@@ -64,6 +64,13 @@ var artists = [
         url: "https://x.com/AceCanti",
         redraws: ['HYRU']
     },
+	{
+        name : "Acfusion", 
+        imageNameOverride: "",
+        uniqueId: "ACFU",
+        url: "https://bsky.app/profile/acfusionart.bsky.social",
+        redraws: ['JOHT']
+    },
     {
         name : "Afroskeleton", 
         imageNameOverride: "",
@@ -2387,6 +2394,13 @@ var artists = [
         url: "https://bsky.app/profile/rhthing.bsky.social",
         redraws: ['KRBA', 'MEG2']
     },
+	{
+        name : "Rilem",
+        imageNameOverride: "",
+        uniqueId: "RILE",
+        url: "https://rilem.nl/",
+        redraws: ['JOHT']
+    },
     {
         name : "Robin Quinn", 
         imageNameOverride: "RobinQuinn",
@@ -2488,7 +2502,7 @@ var artists = [
         redraws: ['JOHT', 'KANT']
     },
     {
-        name : "Sam Webster", // aka Webster Likes Games, webster89
+        name : "Webster", // aka Webster Likes Games, webster89
         imageNameOverride: "SamWebster",
         uniqueId: "WEBS",
         url: "https://bsky.app/profile/samwebster.bsky.social",
