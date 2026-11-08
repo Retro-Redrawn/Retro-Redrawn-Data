@@ -111,7 +111,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "ANIM",
         url: "https://bsky.app/profile/anima-nel.bsky.social",
-        redraws: ['CAST', 'JOHT', 'KANT', 'KOHO', 'SMB3']
+        redraws: ['CAST', 'JOHT', 'KANT', 'KOHO', 'PTCG', 'SMB3']
     },
     {
         name : "AnonimJooJPixel", // aka GearBug Studio
@@ -977,7 +977,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "GENO",
         url: "https://genocl.carrd.co/",
-        redraws: ['KANT', 'MEG2', 'SMB3']
+        redraws: ['KANT', 'MEG2', 'PTCG', 'SMB3']
     },
     {
         name : "GhostBasil",  
@@ -2392,7 +2392,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "WHAW",
         url: "https://bsky.app/profile/rhthing.bsky.social",
-        redraws: ['KRBA', 'MEG2']
+        redraws: ['KRBA', 'MEG2', 'PTCG']
     },
 	{
         name : "Rilem",
@@ -2845,6 +2845,13 @@ var artists = [
         uniqueId: "THED",
         url: "https://linktr.ee/thedragonllama",
         redraws: ['HYRU', 'SMB3']
+    },
+    {
+        name : "TheKreat0r", 
+        imageNameOverride: "",
+        uniqueId: "THEK",
+        url: "https://bsky.app/profile/thekreat0r.bsky.social",
+        redraws: ['KRBA', 'PTCG']
     },
     {
         name : "TheMightyAndre", 
