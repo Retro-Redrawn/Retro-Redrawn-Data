@@ -2649,6 +2649,13 @@ var artists = [
         redraws: ['HYRU']
     },
     {
+        name : "SnakePixel", // aka Simon S. Anderson 
+        imageNameOverride: "",
+        uniqueId: "SNAK_2",
+        url: "https://linktr.ee/snakepixel",
+        redraws: ['PTCG']
+    },
+    {
         name : "Sofi Solorzano", // aka sofi
         imageNameOverride: "sofi",
         uniqueId: "SOFI",
