@@ -1121,6 +1121,13 @@ var artists = [
         url: "https://beacons.ai/hibiverse",
         redraws: ['JOHT']
     },
+    {
+        name : "hiddenpowerfire", // aka thoughtwavelet, thoughtwavemachine
+        imageNameOverride: "",
+        uniqueId: "THOU",
+        url: "https://x.com/thoughtwavelet",
+        redraws: ['JOHT', 'KANT']
+    }, 
 	{
         name : "Howdy Riceball", 
         imageNameOverride: "HowdyRiceball",
@@ -2860,13 +2867,6 @@ var artists = [
         url: "https://bsky.app/profile/themightyandre.bsky.social",
         redraws: ['KANT']
     },
-    {
-        name : "thoughtwavelet", 
-        imageNameOverride: "",
-        uniqueId: "THOU",
-        url: "https://x.com/thoughtwavelet",
-        redraws: ['JOHT', 'KANT']
-    }, 
     {
         name : "TidnBits", // aka Tiddles'N'Bits
         imageNameOverride: "",
