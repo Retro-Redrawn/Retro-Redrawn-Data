@@ -76,13 +76,13 @@ artists.forEach(artist => {
         var art_img = GetArtistImagePath(artist);
         art_img = art_img == '' ? unk_img : art_img;
         var html = 
-        `<div class="col-sm-2">
-            <a href="${artist.url}" target="_blank" >
-            <img src="${art_img}" class="thumb-img" onerror="this.onerror=null; this.src='${unk_img}';" alt="Avatar for ${artist.name}">
-            <p class="ArtistName">${artist.name}</h1>
-            </a><br>
-            ${medals}
-        </div>`
+        `<article class="artist-card">
+            <a class="artist-profile" href="${artist.url}" target="_blank" rel="noopener noreferrer">
+                <img src="${art_img}" class="thumb-img" onerror="this.onerror=null; this.src='${unk_img}';" alt="Avatar for ${artist.name}">
+                <span class="ArtistName">${artist.name}</span>
+            </a>
+            <div class="artist-medals">${medals}</div>
+        </article>`
         artist_container.innerHTML += html
         count++;
     }
