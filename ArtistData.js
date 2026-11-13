@@ -1125,7 +1125,7 @@ var artists = [
         name : "hiddenpowerfire", // aka thoughtwavelet, thoughtwavemachine
         imageNameOverride: "",
         uniqueId: "THOU",
-        url: "https://x.com/thoughtwavelet",
+        url: "https://bsky.app/profile/hiddenpowerfire.bsky.social",
         redraws: ['JOHT', 'KANT']
     }, 
 	{
