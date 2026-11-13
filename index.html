@@ -19,9 +19,26 @@
       <img src="website/retro_redrawn_logo.png" alt="Retro Redrawn" class="site-logo">
     </header>
     <main class="page-content">
-      <p id="ArtistCount" class="artist-count"></p>
+      <div class="artist-toolbar">
+        <p id="ArtistCount" class="artist-count"></p>
+        <section class="artist-controls" aria-label="Artist display options">
+          <div class="artist-control">
+            <label for="RedrawnFilter">Filter by project</label>
+            <select id="RedrawnFilter">
+              <option value="all">All projects</option>
+            </select>
+          </div>
+          <div class="artist-control">
+            <label for="ArtistSort">Sort artists</label>
+            <select id="ArtistSort">
+              <option value="alphabetical">Alphabetically (A to Z)</option>
+              <option value="reverseAlphabetical">Alphabetically (Z to A)</option>
+              <option value="medals">Most medals</option>
+            </select>
+          </div>
+        </section>
+      </div>
       <div id="ArtistCollection" class="artist-grid"></div>
     </main>
-  </body>
-
     <script src="ArtistImageLoader.js"></script>
+  </body>
