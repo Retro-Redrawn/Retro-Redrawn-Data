@@ -1068,7 +1068,7 @@ var artists = [
         imageNameOverride: "GwenSandel",
         uniqueId: "GWEN",
         url: "https://gwensandel.neocities.org/",
-        redraws: ['KANT']
+        redraws: ['JOHT', 'KANT']
     },
     //#endregion
     //#region H
