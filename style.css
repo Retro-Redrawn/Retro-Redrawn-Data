@@ -147,7 +147,7 @@ body {
 
 .artist-medals {
     display: grid;
-    grid-template-columns: repeat(5, 18px);
+    grid-template-columns: repeat(5, max-content);
     align-content: center;
     justify-content: center;
     gap: 3px;
@@ -157,8 +157,6 @@ body {
 
 .medal-img {
     display: block;
-    width: 18px;
-    height: 28px;
     image-rendering: pixelated;
 }
 
