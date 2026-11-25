@@ -305,11 +305,11 @@ var artists = [
         redraws: ['HYRU', 'KOHO', 'KRBA', 'SMB3']
     },
     {
-        name : "Blindeduif", 
+        name : "Blindeduif", // aka Lenc
         imageNameOverride: "",
         uniqueId: "BLIN_2",
         url: "https://linktr.ee/blindeduif",
-        redraws: ['CAST', 'HYRU', 'JOHT', 'KANT', 'KOHO', 'KRBA', 'PTCG', 'SMB3']
+        redraws: ['CAST', 'HYRU', 'JOHT', 'KANT', 'KOHO', 'KRBA', 'MEG2', 'PTCG', 'SMB3']
     },
     {
         name : "BluSprinks", 
@@ -2094,7 +2094,7 @@ var artists = [
         imageNameOverride: "",
         uniqueId: "PEDR",
         url: "https://bsky.app/profile/pedroxturbo.bsky.social",
-        redraws: ['SMB3']
+        redraws: ['MEG2', 'SMB3']
     },
     {
         name : "PeepingOwl", // aka beckyOwlMusic
